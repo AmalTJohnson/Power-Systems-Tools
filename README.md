@@ -4,7 +4,7 @@
 This is a a Repository containing various tools that can be used in Electrical Power System Analysis
 # Power System Analysis Codes
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Open. sc-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Issues](https://img.shields.io/github/issues/your_username/power-system-analysis-codes.svg)](https://github.com/your_username/power-system-analysis-codes/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/your_username/power-system-analysis-codes.svg)](https://github.com/your_username/power-system-analysis-codes/stargazers)
 
